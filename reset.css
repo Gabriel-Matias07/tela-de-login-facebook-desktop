@@ -1,0 +1,59 @@
+/* Reset CSS Global */
+
+/* Aplica border-box em todos os elementos */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Remove a decoração de links */
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Define altura e largura de imagens corretamente */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Remove estilos padrão de listas */
+ul,
+ol {
+    list-style: none;
+}
+
+/* Define um estilo consistente para botões */
+button,
+input,
+textarea,
+select {
+    font: inherit;
+    border: none;
+    outline: none;
+    background: none;
+}
+
+/* Remove estilos padrão do botão */
+button {
+    cursor: pointer;
+}
+
+/* Define estilos padrão para a tipografia */
+body {
+    font-family: sans-serif;
+    line-height: 1.5;
+    text-rendering: optimizeSpeed;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* Remove o comportamento de focus padrão e melhora a acessibilidade */
+*:focus {
+    outline: 2px solid #007bff;
+    outline-offset: 2px;
+}
