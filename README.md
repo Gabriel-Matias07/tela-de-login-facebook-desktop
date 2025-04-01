@@ -24,4 +24,4 @@ Depois de dois anos de aprendizado e evolução no desenvolvimento web, pretendo
 
 ## 📅 Próximos Passos
 
-A reformulação deste projeto será iniciada em breve e estarei documentando meu progresso para mostrar a evolução desde a versão original até a versão aprimorada.
+A reformulação deste projeto será iniciada em breve, e estarei documentando meu progresso para mostrar a evolução desde a versão original até a versão aprimorada.
