@@ -22,6 +22,4 @@ Depois de dois anos de aprendizado e evolução no desenvolvimento web, pretendo
 - HTML5
 - CSS3
 
-## 📅 Próximos Passos
-
 A reformulação deste projeto será iniciada em breve, e estarei documentando meu progresso para mostrar a evolução desde a versão original até a versão aprimorada.
